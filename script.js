@@ -1,4 +1,4 @@
-const secim = "May 4 2025 20:00:00";
+const secim = "March 4 2025 20:00:00";
 const milisecondsEl = document.getElementById("miliseconds") 
 const miniText = document.getElementById("mini-text")
 
