@@ -84,6 +84,8 @@ h1 {
 
    body{
        background: url('furi.jpg');
+       background-size: cover;
+       background-position: center;
 }
   }
 
@@ -103,6 +105,8 @@ h1 {
     }
    body{
        background: url('furi.jpg');
+       background-size: cover;
+       background-position: center;
 }
   }
 
@@ -123,5 +127,7 @@ h1 {
     }
    body{
        background: url('furi.jpg');
+       background-size: cover;
+       background-position: center;
 }
   }
