@@ -69,8 +69,8 @@ h1 {
     color: rgb(194, 193, 193);
 }
 #furinacik{   
-    height: 13%;
-    width: 13%;
+    height: 10%;
+    width: 10%;
 }
 
 @media screen and (max-width: 800px) {
