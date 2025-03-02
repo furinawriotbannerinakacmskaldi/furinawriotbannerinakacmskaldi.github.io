@@ -41,9 +41,9 @@ h1 {
     font-weight: bold;
     font-size: 6rem;
     line-height: 1;
-    margin: 1rem 2rem;
+    margin: 1rem 1.5rem;
     background-color: rgba(128, 128, 128, 0.329);
-    padding: 0.7rem;
+    padding: 1rem;
     border-radius: 10px;
 }
 
